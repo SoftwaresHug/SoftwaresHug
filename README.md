@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8957e5,100:1f6feb&height=140&section=header&text=WHAT%20I%20WORK%20WITH&fontSize=54&fontColor=ffffff&animation=fadeIn" width="100%" alt="work with" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8957e5,100:1f6feb&height=110&section=header&text=WHAT%20I%20WORK%20WITH&fontSize=42&fontColor=ffffff&animation=fadeIn" width="380" alt="work with" />
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,rust,go,java,kotlin&perline=8" width="900" alt="langs a" />
@@ -74,7 +74,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:8957e5&height=140&section=header&text=ABOUT%20ME&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="about" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:8957e5&height=110&section=header&text=ABOUT%20ME&fontSize=45&fontColor=ffffff&animation=fadeIn" width="380" alt="about" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=1100&height=60&lines=Software+Engineer+with+13%2B+years+of+experience;Building%2C+breaking+and+understanding+software;From+high-level+products+down+to+the+binary" alt="about typing" />
 </div>
@@ -93,7 +93,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8957e5,100:1f6feb&height=140&section=header&text=TECH%20STACK&fontSize=60&fontColor=ffffff&animation=scaleIn" width="100%" alt="stack" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8957e5,100:1f6feb&height=110&section=header&text=TECH%20STACK&fontSize=45&fontColor=ffffff&animation=scaleIn" width="380" alt="stack" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=300&color=F7DF1E&center=true&vCenter=true&width=1100&height=60&lines=C+%E2%80%A2+C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+Rust+%E2%80%A2+Go;Python+%E2%80%A2+Java+%E2%80%A2+Kotlin+%E2%80%A2+Swift;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+PHP+%E2%80%A2+Lua;Assembly+%E2%80%A2+Ghidra+%E2%80%A2+IDA+%E2%80%A2+Frida;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Linux" alt="stack typing" />
 
@@ -130,7 +130,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:8957e5&height=140&section=header&text=GITHUB%20STATS&fontSize=60&fontColor=ffffff&animation=blink" width="100%" alt="stats" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:8957e5&height=110&section=header&text=GITHUB%20STATS&fontSize=45&fontColor=ffffff&animation=blink" width="380" alt="stats" />
 
 <a href="https://github.com/SoftwaresHug?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-1f6feb?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" height="60" alt="repos" /></a>
 <a href="https://github.com/SoftwaresHug?tab=followers"><img src="https://img.shields.io/github/followers/SoftwaresHug?label=FOLLOWERS&style=for-the-badge&color=8957e5&logo=github&logoSize=auto" height="60" alt="followers" /></a>
@@ -148,15 +148,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8957e5,100:1f6feb&height=140&section=header&text=FEATURED%20PROJECT&fontSize=56&fontColor=ffffff&animation=twinkling" width="100%" alt="project" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=1100&height=60&lines=Coming+soon+to+Silicon+Valley;Stay+tuned" alt="project typing" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:8957e5&height=140&section=header&text=LET'S%20CONNECT&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="connect" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:8957e5&height=110&section=header&text=LET'S%20CONNECT&fontSize=45&fontColor=ffffff&animation=fadeIn" width="380" alt="connect" />
 
 <a href="https://wa.me/201200655872?text=Hi%20SoftwaresHug%2C%20I%20found%20you%20on%20GitHub!"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20Message%20me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto" height="75" alt="WhatsApp" /></a>
 <br/><br/>
